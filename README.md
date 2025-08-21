@@ -3,7 +3,7 @@
 
 I am a current student studying Computer Information Systems with a specilization in Cybersecurity
 
-##Objective
+## Objective
 Cybersecurity student driven by curiosity and a passion for protecting digital systems. 
 My mission is to become a SOC Analyst by gaining hands-on experience, sharpening my skills, and diving deep into how computers and networks operate. 
 Always learning, always building.
